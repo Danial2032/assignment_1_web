@@ -7,3 +7,4 @@
 
 
 I created my first webpage using HTML and CSS. Firstly, I coded the basic HTML strcuture, such as head, body, headings, paragraphs, lists. Secondly, I added CSS file with colors, spacing, sizing, borders and layout. Thirdly, I uploaded profile and favicon pictures to GitHub. Afterthat, I was continuing by finishing last steps of the assignment. Finally, I checked if my website is working and checked if there are all required elements.
+ https://danial2032.github.io/assignment_1_web/
