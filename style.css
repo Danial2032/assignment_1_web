@@ -1,0 +1,144 @@
+body{
+  font-family:Arial,sans-serif;
+    line-height:1.6;
+  margin:0;
+  padding:20px;
+  background-color:#eef2f5;
+  color:#333333;
+}
+
+#main-heading{
+  color:#2c3e50;
+  font-size:2.5rem;
+  margin-bottom:5px;
+}
+.highlight{
+  background-color:#fff3cd;
+  color:#856404;
+  padding:5px 10px;
+  border-radius:4px:
+  font-weight:bold;
+}
+.box-section{
+  background-color:#ffffff;
+  border:1px solid #cccccc;
+  padding:20px;
+  margin-bottom:20px;
+  border-radius:8px;
+}
+.profile-img{
+  width:150px;
+  height:150px;
+  border-radius:50%;
+  border:3px solid #3498db;
+}
+.simple-btn{
+  background-color:#3498db;
+  color:white;
+  padding:10px 20px;
+  border:none;
+  border-radius:4px;
+  cursor:pointer;
+  font-size:1em;
+}
+.simple-btn:hover{
+  background-color:#2980b9;
+}
+.schedule-table{
+  width:100%;
+  border-collapse:collapse;
+  margin-top:10px;
+}
+.schedule-table th, .schedule-table td{
+  border:1px solid #ddd;
+  padding:10px;
+  text-aligh:left;
+} 
+.schedule-table th{
+  background-color:#3498db;
+  color:white;
+}
+.layout-table{
+  width:100%;
+  border:1px solid #bbb;
+}
+.menu-column{
+  widht:30%;
+  background-color:#e9ecef;
+  padding:15px;
+  vertical-align:top;
+}
+.content-column{
+  width:70%;
+  padding:15px;
+  vertical-align:top;
+}
+.position-container{
+  position:relative;
+  height:120px;
+  background-color:#e2e8f0;
+  padding:10px;
+  border:1px dashed #94a3b8;
+}
+.pos-static{
+  position:static;
+  background:#cbd5e1;
+  padding:5px;
+}
+.pos-relative{
+  position:relative;
+  top:5px;
+  left:20px;
+  background:#93c5fd;
+  padding:5px;
+  width:200px;
+}
+.pos-absolute{
+  position:absolute;
+  bottom:10px;
+  right:10px;
+  background:#fca5a5;
+  padding:5px;
+}
+.float-container{
+  background-color:#f1f5f9;
+  padding:10px;
+  border:1px solid #cbd5e1;
+}
+.box-left{
+  float:left;
+  width:45%;
+  background-color:#bbf7d0;
+  padding:10px;
+  box-sizing:border-box;
+}
+.box-right{
+  float:right;
+  widht:45%;
+  background-color:#fef08a;
+  padding:10px;
+  box-sizing:border-box;
+}
+.clear-box{
+  clear:both;
+  background-color:#fed7aa;
+  padding:10px;
+  margin-top:10px;
+}
+.contact-form input[type="text"],
+.contact-form input[type="email"]{
+  width:100%;
+  max-width:300px;
+  padding:8px;
+  margin-top:5px;
+  border:1px solid #ccc;
+  border-radius:4px;
+}
+.contact-form input[type="Submit"]{
+  background-color:#2ec4b6;
+  color:white;
+  padding:8px 16px;
+  border:none;
+  border-radius:4px;
+  cursor:pointer;
+}
